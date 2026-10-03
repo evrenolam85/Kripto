@@ -1,2 +1,2 @@
-# Kripto
-Kripto takip
+# Kripto-Evren
+Kripto evren android uygulaması
